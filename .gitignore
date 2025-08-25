@@ -1,0 +1,2 @@
+# Claude configuration files containing secrets
+.claude/mcp.json
