@@ -8,7 +8,21 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(npx context7-mcp:*)",
-      "Bash(claude mcp add:*)"
+      "Bash(claude mcp add:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(npm create:*)",
+      "Bash(rm:*)",
+      "Bash(ls:*)",
+      "Bash(timeout:*)",
+      "Bash(cp:*)",
+      "Bash(true)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss init:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm run start:*)",
+      "Bash(npm run:*)",
+      "Bash(curl:*)"
     ],
     "deny": []
   }
