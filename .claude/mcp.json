@@ -8,9 +8,7 @@
     "github": {
       "command": "npx",
       "args": ["@modelcontextprotocol/server-github"],
-      "env": {
-        // "GITHUB_PERSONAL_ACCESS_TOKEN": "REDACTED_TOKEN"
-      }
+      "env": {}
     }
   }
 }
